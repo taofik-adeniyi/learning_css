@@ -1,0 +1,39 @@
+/* CSS RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* html {
+    font-size: 16px;
+} */
+p {
+    font-size: 16px;
+}
+header {
+    width: 50%;
+}
+h1 {
+    border: 2px dashed red;
+    width: 50%;
+}
+
+/* absolute units */
+/* PX */
+
+/* relative units */
+/* percentages, rem */
+/* rem relates to the font size of the root element */
+main {
+    font-size: 2rem; /*relates to the size specified by the browser*/
+}
+
+p {
+    font-size: 2rem;
+    /* font-size: 2em; */
+}
+/* em is relative to the size of the parent then the root */
+/* ch the size of character (The advance measure (width) of the glyph "0" of the element's font.
+) */
+
+/* vh and vw makes dosent account for the scrollbar width */

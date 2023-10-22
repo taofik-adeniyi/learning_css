@@ -1,0 +1,35 @@
+/* UNIVERSAL SELECTOR */
+/* THIS SELECTS EVERYTHING */
+* {
+    font-family: monospace;
+}
+body {
+    font-size: 22px;
+}
+/* group selectors */
+h1, h2 { /*affects all h1 and h2*/
+    color: blue;
+}
+/* h1 h2 { looking for h2 inside of an h1
+    color: blue;
+} */
+p {
+    color: purple;
+}
+p {
+    color: red;
+}
+/* p span {
+    text-transform: uppercase;
+    background-color: gold;
+} */
+.highlight {
+    text-transform: uppercase;
+    background-color: gold;
+}
+.gray {
+    color: gray;
+}
+#second {
+    font-style: italic;
+}
