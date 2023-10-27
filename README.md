@@ -1,3 +1,6 @@
+YOUTUBE CSS TUTORIAL VIDEO
+https://www.youtube.com/watch?v=OXGznpKZ_sA&t=23870s
+
 for colors
 coolors.co (also has contrast checker)
 
